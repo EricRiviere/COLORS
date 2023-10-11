@@ -1,0 +1,27 @@
+#RGBcolorSample,
+#HexacolorSample,
+#HSLcolorSample,
+#RGBPrimaryColorSample {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 20%;
+  margin: auto;
+}
+
+#RGBSubmit,
+#HexaSubmit,
+#hslSubmit {
+  margin-top: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.inputs {
+  text-align: center;
+  margin: 10px auto;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
